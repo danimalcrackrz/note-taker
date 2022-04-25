@@ -1,0 +1,28 @@
+{
+  "notes": [
+    {
+      "title": "Pay the Milkman",
+      "details": "The milkman needs 20$ for the fresh milk!",
+      "category": "money",
+      "id": 3
+    },
+    {
+      "title": "Lightsaber Training",
+      "details": "Need to reach out to Skywalker for some sparring - tryout my new red saber!",
+      "category": "work",
+      "id": 4
+    },
+    {
+      "title": "Space X Live Launch",
+      "details": "remember to tune in on youtube for the space x live launch this upcoming friday! Go Elon!",
+      "category": "reminders",
+      "id": 5
+    },
+    {
+      "title": "Take the trash out",
+      "details": "Trash man will be here tomorrow morning, dont forget to take out the trash!",
+      "category": "todos",
+      "id": 6
+    }
+  ]
+}
